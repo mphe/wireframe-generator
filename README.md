@@ -13,6 +13,11 @@ The following table shows some example screenshots.
 | UV view    | ![](example/uv.png)    | ![](example/wireframe.png)           | ![](example/wireframe_clean.png)       |
 
 
+# Installation
+
+Requires Python 3.7+.
+
+Install requirements using `pip install -r requirements.txt`.
 
 
 # Usage
